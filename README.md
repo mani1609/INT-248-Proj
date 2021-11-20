@@ -11,4 +11,5 @@
 5. Test the model
 6. Improve the model and repeat the process
 ### Keywords:
-Perceptron, Support Vector Machine, Self Organizing Map, Linear Vector Quantization
+: Image Classification,
+Convolutional Neural Network, Deep Learning, TensorFlow, Relu, epoch.
