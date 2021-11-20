@@ -10,6 +10,9 @@
 4. Train the model
 5. Test the model
 6. Improve the model and repeat the process
+
+#####For this project I am using the [flower_photos dataset(zip)](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz).
+
 ### Keywords:
 : Image Classification,
 Convolutional Neural Network, Deep Learning, TensorFlow, Relu, epoch.
