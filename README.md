@@ -4,7 +4,7 @@
  * Efficiently loading a dataset off disk.
  * Identifying overfitting and applying techniques to mitigate it, including data augmentation and dropout. 
 
-This project follows a basic machine learning workflow:
+###This project follows a basic machine learning workflow:
  1. Examine and understand data
  2. Build an input pipeline
  3. Build the model
